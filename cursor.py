@@ -1,8 +1,6 @@
 import os
 name = input("Enter your name: ")
 print(f"Hello {name}")
-place = input("where are you studying: ")
-print(f"you are studying in {place}")
 
 while True:
     password = input("create password: ")
